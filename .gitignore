@@ -3,6 +3,7 @@
 node_modules
 npm-debug.log
 yarn-error.log
+package-lock.json
 
 # React build output
 .next/
@@ -20,7 +21,6 @@ web3.js
 .env
 
 # IDEs and editors
-.vscode/
 .idea/
 *.sublime-workspace
 *.sublime-project
@@ -33,3 +33,6 @@ web3.js
 
 # Coverage
 coverage/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
